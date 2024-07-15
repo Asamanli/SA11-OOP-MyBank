@@ -1,0 +1,20 @@
+{
+  "name": "sa11-oop-mybank",
+  "version": "1.0.0",
+  "description": "This repository demonstrates the practical application of OOP concepts in TypeScript by building a simulated bank system.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
